@@ -1,0 +1,3 @@
+Finding ORFs (Open Reading Frames) in the Human TNF Gene Sequence 
+Open Reading Frames (ORFs) are stretches of DNA that have the potential to code for proteins. Identifying these ORFs within a DNA sequence is crucial for indicating potential protein-coding regions. Once identified, ORFs can be translated into amino acid sequences, which can then be analyzed to predict protein structure, function, and potential interactions.
+Objective: Identify the ORFs within the TNF gene sequence.
