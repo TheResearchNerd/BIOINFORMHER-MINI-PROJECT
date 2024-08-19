@@ -1,4 +1,4 @@
-After undergoing the virtual training on;
+After participating in the virtual training on;
 Downloading a Biological sequence
 Translating DNA sequence to Amino Acid
 Finding ORFs in a DNA sequence:
